@@ -1,6 +1,9 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project work is done for Beyond Chats keeping all the requirments in mind , even though I was not able to completly fullfill the requirments because had to work on other assignment work for other organisations.
+The incompleted requirments are as follows:
+
+- The web-app is not mobile responsive.
 
 Currently, two official plugins are available:
 
