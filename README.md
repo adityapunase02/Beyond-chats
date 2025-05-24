@@ -1,6 +1,15 @@
 # React + Vite
 
 This project work is done for Beyond Chats keeping all the requirments in mind , even though I was not able to completly fullfill the requirments because had to work on other assignment work for other organisations.
+
+to access and enjoy the live project, follow the below link:
+https://beyond-chats-rosy.vercel.app/
+
+Fulfilled requirments are as follows:
+- A sidebar containing demo chats with sorting option and collapsable
+- A main content area where the chats are being displayed , changes with every chat
+- An AI chatbot (actual working), taking all the data live from through the Gemini API, with question suggestions.
+   
 The incompleted requirments are as follows:
 
 - The web-app is not mobile responsive.
